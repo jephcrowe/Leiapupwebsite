@@ -1,2 +1,0 @@
-# Leiapupwebsite
-Created with CodeSandbox
